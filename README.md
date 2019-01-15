@@ -1,6 +1,6 @@
-# Web Development Build System (BETA)
+# A Blog Website Template (BETA)
 
-Latest version of Web Development Build System!  with npm script and support for sass!
+Latest version of Blog Website Template!  with npm script and support for sass!
 
 ### Version
 
